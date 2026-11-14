@@ -1,0 +1,3 @@
+# Captions for loose files in the project folder (not in subfolders).
+01-hero: Hero shot
+06-turntable: Turntable loop

@@ -1,0 +1,13 @@
+{
+  "name": "ault3d.io",
+  "private": true,
+  "type": "module",
+  "description": "Portfolio site for Aidan Ault. Content lives in \"Website Pages\"; the builder lives in site/.",
+  "scripts": {
+    "build": "node site/build.mjs",
+    "dev": "node site/build.mjs --serve"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

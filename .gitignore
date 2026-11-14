@@ -1,0 +1,10 @@
+# Built website (made by "npm run build"; Cloudflare builds its own copy)
+dist/
+node_modules/
+
+# Blender autosaves and OS clutter
+*.blend1
+*.blend2
+Thumbs.db
+desktop.ini
+.DS_Store

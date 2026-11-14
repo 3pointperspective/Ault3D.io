@@ -1,0 +1,7 @@
+# Captions for the images in this folder.
+# One per line:  filename: caption
+# The file extension is optional. Images without a line here get no caption.
+01-front: Front view, studio lighting
+02-detail-knob: Volume knob, knurled aluminium
+03-exploded: Exploded view of the internals
+04-colorways.png: Three colourways

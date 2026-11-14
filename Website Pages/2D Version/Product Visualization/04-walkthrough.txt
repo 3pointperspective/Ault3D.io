@@ -1,0 +1,5 @@
+# A .txt file holds a YouTube or Vimeo link, embedded as a video player.
+# Paste the link on the first line without a # in front. An optional second line is the caption.
+# While there's no link, this file is skipped.
+# https://www.youtube.com/watch?v=XXXXXXXXXXX
+# Product walkthrough
